@@ -1,0 +1,13 @@
+<resources>
+       <string name="app_name">Affirmations</string>
+       <string name="affirmation1">Sempurna, Sabah.</string>
+       <string name="affirmation2">Pulau Perhentian, Terangganu.</string>
+       <string name="affirmation3">Langkawi.</string>
+       <string name="affirmation4">Cameron Highland.</string>
+       <string name="affirmation5">Genting Highland.</string>
+       <string name="affirmation6">Bukit Bendera, Pulau Pinang.</string>
+       <string name="affirmation7">Komtar, Pulau Pinang.</string>
+       <string name="affirmation8">Bukit Tinggi, Pahang.</string>
+       <string name="affirmation9">Kuala Lumpur.</string>
+       <string name="affirmation10">Tambun, Ipoh.</string>
+</resources>
